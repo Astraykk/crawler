@@ -1,0 +1,75 @@
+1516763816269	geckodriver	INFO	geckodriver 0.19.0
+1516763816276	geckodriver	INFO	Listening on 127.0.0.1:54387
+1516763817440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hVmP4kLOVXcx"
+1516763818414	Marionette	INFO	Enabled via --marionette
+1516763820480	Marionette	INFO	Listening on port 33413
+1516763820587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516763820657	Marionette	DEBUG	Register listener.js for window 2147483649
+1516763820714	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516763822124	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516763822125	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516763837129	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516763883950	geckodriver	INFO	geckodriver 0.19.0
+1516763883954	geckodriver	INFO	Listening on 127.0.0.1:52651
+1516763885107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7toic9rsjM2l"
+1516763885696	Marionette	INFO	Enabled via --marionette
+1516763887099	Marionette	INFO	Listening on port 40609
+1516763887135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516763887204	Marionette	DEBUG	Register listener.js for window 2147483649
+1516763887261	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516763888710	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516763888711	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516763905421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516763909881	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1516763999340	geckodriver	INFO	geckodriver 0.19.0
+1516763999343	geckodriver	INFO	Listening on 127.0.0.1:55451
+1516763999457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yGQ8V8HPz0io"
+1516764000263	Marionette	INFO	Enabled via --marionette
+1516764002177	Marionette	INFO	Listening on port 34305
+1516764002185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516764002262	Marionette	DEBUG	Register listener.js for window 2147483649
+1516764002313	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516764003641	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516764003641	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516764012296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516764012715	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1516764061922	geckodriver	INFO	geckodriver 0.19.0
+1516764061925	geckodriver	INFO	Listening on 127.0.0.1:46829
+1516764062080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fQtiPBfAeYvD"
+1516764063071	Marionette	INFO	Enabled via --marionette
+1516764065076	Marionette	INFO	Listening on port 45401
+1516764065156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516764065239	Marionette	DEBUG	Register listener.js for window 2147483649
+1516764065283	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516764065437	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516764065440	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516764065441	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516764065494	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=http%3A//baidu.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20baidu.com."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516764108849	geckodriver	INFO	geckodriver 0.19.0
+1516764108851	geckodriver	INFO	Listening on 127.0.0.1:56787
+1516764108992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3pndAN2RFsgK"
+1516764109726	Marionette	INFO	Enabled via --marionette
+1516764111220	Marionette	INFO	Listening on port 37661
+1516764111316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516764111390	Marionette	DEBUG	Register listener.js for window 2147483649
+1516764111416	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516764112451	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516764112452	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516764116659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516764117762	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1469_21121_17001&csor=1&cb=jQuery110205543325843218051_1516764114036&_=1516764114038, line 1: TypeError: jQuery110205543325843218051_1516764114036 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1469_21121_17001&csor=2&pwd=s&cb=jQuery110205543325843218051_1516764114036&_=1516764114039, line 1: TypeError: jQuery110205543325843218051_1516764114036 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1469_21121_17001&csor=3&pwd=se&cb=jQuery110205543325843218051_1516764114036&_=1516764114040, line 1: TypeError: jQuery110205543325843218051_1516764114036 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1469_21121_17001&csor=4&pwd=sel&cb=jQuery110205543325843218051_1516764114036&_=1516764114041, line 1: TypeError: jQuery110205543325843218051_1516764114036 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1469_21121_17001&csor=5&pwd=sele&cb=jQuery110205543325843218051_1516764114036&_=1516764114042, line 1: TypeError: jQuery110205543325843218051_1516764114036 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1469_21121_17001&csor=6&pwd=selen&cb=jQuery110205543325843218051_1516764114036&_=1516764114043, line 1: TypeError: jQuery110205543325843218051_1516764114036 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1469_21121_17001&csor=7&pwd=seleni&cb=jQuery110205543325843218051_1516764114036&_=1516764114044, line 1: TypeError: jQuery110205543325843218051_1516764114036 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1469_21121_17001&csor=8&pwd=seleniu&cb=jQuery110205543325843218051_1516764114036&_=1516764114045, line 1: TypeError: jQuery110205543325843218051_1516764114036 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniumh&json=1&p=3&sid=1469_21121_17001&csor=9&pwd=selenium&cb=jQuery110205543325843218051_1516764114036&_=1516764114046, line 1: TypeError: jQuery110205543325843218051_1516764114036 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniumhq&json=1&p=3&sid=1469_21121_17001&csor=10&pwd=seleniumh&cb=jQuery110205543325843218051_1516764114036&_=1516764114047, line 1: TypeError: jQuery110205543325843218051_1516764114036 is not a function
