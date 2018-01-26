@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+
+"""
+Learning web crawler! Based on the book.
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import pdfkit
