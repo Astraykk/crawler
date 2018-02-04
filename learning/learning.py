@@ -66,4 +66,4 @@ def bs_test_1(url):
 """ Practicing area """
 
 # my_crawler_1(url1)
-bs_test_1(url2)
+# bs_test_1(url2)
