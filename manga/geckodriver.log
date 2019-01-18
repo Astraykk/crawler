@@ -1,0 +1,94 @@
+1518072016529	geckodriver	INFO	geckodriver 0.19.0
+1518072016536	geckodriver	INFO	Listening on 127.0.0.1:41277
+1518072017715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DmX66dUrtJ2o"
+1518072019834	Marionette	INFO	Enabled via --marionette
+1518072022186	Marionette	INFO	Listening on port 45477
+1518072022284	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518072057155	geckodriver	INFO	geckodriver 0.19.0
+1518072057167	geckodriver	INFO	Listening on 127.0.0.1:53667
+1518072058325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BhRB1Akmue38"
+1518072059028	Marionette	INFO	Enabled via --marionette
+1518072060541	Marionette	INFO	Listening on port 34239
+1518072060582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+1518072131737	geckodriver	INFO	geckodriver 0.19.0
+1518072131740	geckodriver	INFO	Listening on 127.0.0.1:45843
+1518072131902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.k8yDrv5ZRxMN"
+1518072132734	Marionette	INFO	Enabled via --marionette
+1518072134085	Marionette	INFO	Listening on port 34123
+1518072134140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+1518072430955	geckodriver	INFO	geckodriver 0.19.0
+1518072430958	geckodriver	INFO	Listening on 127.0.0.1:42845
+1518072432074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tfM0KfESDuUa"
+1518072432767	Marionette	INFO	Enabled via --marionette
+1518072434341	Marionette	INFO	Listening on port 39121
+1518072434414	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+1518072536130	geckodriver	INFO	geckodriver 0.19.0
+1518072536138	geckodriver	INFO	Listening on 127.0.0.1:51181
+1518072536323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QyYsRgveYhBz"
+1518072537181	Marionette	INFO	Enabled via --marionette
+1518072539273	Marionette	INFO	Listening on port 37035
+1518072539377	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 114886, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518073040830	geckodriver	INFO	geckodriver 0.19.0
+1518073040833	geckodriver	INFO	Listening on 127.0.0.1:44791
+1518073041010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KqauSP50Yt7G"
+1518073041737	Marionette	INFO	Enabled via --marionette
+1518073043158	Marionette	INFO	Listening on port 38469
+1518073043252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+1518073147825	geckodriver	INFO	geckodriver 0.19.0
+1518073147828	geckodriver	INFO	Listening on 127.0.0.1:33241
+1518073148968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IoO9vFmjY7MX"
+1518073149557	Marionette	INFO	Enabled via --marionette
+1518073150909	Marionette	INFO	Listening on port 37121
+1518073151021	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+1518073305150	geckodriver	INFO	geckodriver 0.19.0
+1518073305153	geckodriver	INFO	Listening on 127.0.0.1:52047
+1518073305267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kolJkj7Us1cj"
+1518073305913	Marionette	INFO	Enabled via --marionette
+1518073307323	Marionette	INFO	Listening on port 38823
+1518073307408	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+
+(firefox:115565): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+JavaScript error: http://jsc.mgid.com/a/g/agency.manhuagui.com.195560.js?t=1181815, line 1: TypeError: w.document.body is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106464657-3, line 67: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 101: TypeError: this.tabTarget is null
+[Parent 115565, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
