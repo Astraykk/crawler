@@ -4,7 +4,7 @@ Download manga 5060.
 """
 import os,sys,requests,webbrowser
 from bs4 import BeautifulSoup
-from PIL import Image # Use pillow to handle image files
+from PIL import Image  # Use pillow to handle image files
 from selenium import webdriver
 
 main_url = "http://www.manhuagui.com/comic/5060/"
